@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Finalweek</Name>
+    <Assembly>3DR_R23_Add-in_Template.dll</Assembly>
+    <FullClassName>Finalweek.App</FullClassName>
+    <ClientId>54360ACF-E6FF-459D-AD73-7CB18E97CE63</ClientId>
+    <VendorId>com.3dreid</VendorId>
+    <VendorDescription>Laura@3dreid, https://3dreid.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
